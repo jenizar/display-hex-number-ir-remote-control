@@ -7,9 +7,9 @@ arduino nano, ir receiver, rtc ds3231, buzzer, lcd 20x4, breadboard, jumper cabl
 
 ![alt text](https://github.com/jenizar/display-hex-number-ir-remote-control/blob/main/screenshot/ir_remote_hex_data1.jpg)
 
-![alt text](https://github.com/jenizar/display-hex-number-ir-remote-control/blob/main/screenshot/ir_remote_hex_data1.jpg)
+![alt text](https://github.com/jenizar/display-hex-number-ir-remote-control/blob/main/screenshot/ir_remote_hex_data2.jpg)
 
-![alt text](https://github.com/jenizar/display-hex-number-ir-remote-control/blob/main/screenshot/ir_remote_hex_data1.jpg)
+![alt text](https://github.com/jenizar/display-hex-number-ir-remote-control/blob/main/screenshot/ir_remote_hex_data3.jpg)
 
 demo video :
  
